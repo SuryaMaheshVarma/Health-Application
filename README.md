@@ -138,7 +138,7 @@ Please ensure that any code changes are accompanied by appropriate tests, and th
 For any inquiries or feedback, feel free to reach out via:
 
 * Email: [(namburi.mahesh45@gmail.com](namburi.mahesh45@gmail.com)
-* GitHub: [https://github.com/varunMVP](https://github.com/varunMVP)
+* GitHub: [https://github.com/SuryaMaheshVarma](https://github.com/SuryaMaheshVarma)
 
 ---
 
